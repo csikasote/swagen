@@ -1,0 +1,579 @@
+audio,sentence
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_37095981.wav,kwani madaraka yamesogezwa karibu zaidi na wananchi 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30618763.wav,misitu ya zambezi na kakamega kusini mwa afrika 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29546602.wav,sasa kanada ilikuwa nchi ya kujitawala chini ya mfalme wa uingereza 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36977021.wav,ule kati ya watanganyika mia moja wakristo walikuwa tu leo zaidi ya 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29827711.wav,harara mwilini au kuumwa na koo katika wiki chache za kwanza 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29817108.wav,hivyo uwepo wa watalii kuja kuona aina hii ya madini huipa fedha za kigeni 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30618724.wav,kiswamu kinatumiwa na wakazi wa imalinyi njombe 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30659306.wav,diego maradona alicheza fainali za kombe la dunia 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28262332.wav,waroma walipokea vile 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30644345.wav,kama kifua kikuu kisipotibiwa kinaua zaidi ya asilimia hamsini ya watu walioambukizwa 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30628007.wav,iliwasaidia kupata pesa chache za kuendeshea maisha 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30619193.wav,kabila ya hadzabe ilikuwa kabila maarufu sana iliyo kabila la wamasaii 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30719190.wav,mzee abeid amani karume aliweka jiwe la msingi la jumba la kwanza la fleti 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_38356037.wav,tangu wakati huo hata hivyo pengo limesalia kati ya asilimia kumi na tisa hadi ishirini na sita 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30635887.wav,tembo ambao idadi yao ni takriban elfu moja 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_35211000.wav,na tena narudisha shukrani 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_31292330.wav,watu mashuhuri na viongozi wa mataifa mbalimbali waliendelea kujitokeza mjini conakry 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30621769.wav,usafiri wao wa asili ni kwa chombo kiitwacho ngwichili 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30719791.wav,alizaliwa katika hospitali ya misheni ya lubwa 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_34115612.wav,siku hizo zote ni za wao kujipendeza 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29261299.wav,iko karibu na mji wa napoli 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29843822.wav,hicho kilikuwa ni kipigo cha pili kwa yanga kutoka kwa watani wao 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36367454.wav,zilisaidia kuchora picha halisi ya janga hilo 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28258227.wav,iko katika kusini ya uswidi 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30618549.wav,hupewa maelekezo na ushauri zinazohusiana na majukumu yao mapya 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30717904.wav,nyota wengi wa dortmund waliondoka kujiunga na bayern 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_37092216.wav,mashemasi pia wazee kwa jumla hakuna picha kamili ya utaratibu 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29530550.wav,shabaha kuu ya serikali ni kutunza amani na usalama wa raia katika jamii 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29360641.wav,pamoja na kuandika alisafiri mahali pengi katika nchi za bahari ya mediteranea 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28258391.wav,hapa mkojo huwa si wa manjano sana 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30717989.wav,alijenga nyumba bora na makazi ya wananchi wa unguja na pemba 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28933226.wav,kila mtu huwa na mfumo wa kingamwili ndani yake 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30621731.wav,dhuluma kwa wapare ni kitu kilichokuwa kimepigwa marufuku hata 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30719500.wav,kilimo cha mpira katika maeneo ya magharibi mwa afrika 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_37056906.wav,ikiwa baada ya mkutano mmoja au miwili 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36379275.wav,lakini hawa wote walikuwa wakifanya muziki wa aina moja ambao ni mziki wa kufoka 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30630339.wav,samaki wanaotumika kwa kitoweo na mapambo ni miongoni mwa wanaopatikana ndani ya ziwa hilo 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29773759.wav,mto huu inajulikana tangu zamani 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30718620.wav,jaribio hilo lilishindwa baada ya marekani kuingilia kati 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30581263.wav,muyinga mfwimi akaanza kutawala nae akazaa watoto watatu 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30659997.wav,nyerere alikuwa kiungo muhimu katika muungano wa tanganyika na zanzibari 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28258876.wav,waroma hawakuwa na mitambo ya injini lakini walikuwa wataalamu wa uhandisi 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29640458.wav,ushirikiano kati ya monasteri mbalimbali unategemea asili yake na mitindo yake 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28479742.wav,anaheshimiwa na wakatoliki na waorthodoksi kama mtakatifu 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30628140.wav,mkutano uliazimia kuweka wawakilishi katika sekta za utalii 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28245841.wav,wakazi wengi wa wilaya wanaishi vijijini 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30659356.wav,amin alianza kuingiza watu wa kabila lake la kakwa na lugbara 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_37227253.wav,milipuko ya bunduki imesikika karibu na hekalu ya prayer vihiyar 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30718089.wav,wavulana katika kitengo hiki wanajulikana kama ilngeeliani 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28933135.wav,yeye ndiye mwimbaji wa kike katika kikundi cha rap rave die antwoord 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30618741.wav,maeneo ya majimaji yenye majani na mimea jamii ya mitende 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30618239.wav,walifariki kutokana na magonjwa ya moyo na mfumo wa damu 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29817289.wav,idi amin alianza kuimarisha msimamo wake ndani ya jeshi 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30717855.wav,wakinga ni kabila la watu wa tanzania wanaoishi hasa katika mkoa wa njombe 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30660047.wav,pep guardiola na ufundi wake hajaweza kufikia mafanikio ya real madrid 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30629262.wav,mwingine alikuwa ni john carse kutoka seychelles 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29771560.wav,wakazi walio wengi ni wakristo waorthodoksi 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30659712.wav,shughuli zote hizi heka heka za kimaendeleo na kadhalika 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29572633.wav,video yake ilitengenezwa kwa ajili ya single 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30619078.wav,kisha baadae alifika maison du peuple kuuona mwili wa mumewe 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_37056912.wav,nahodha alizawadiwa 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30631214.wav,kaka laurentius brenner aliyapima baadhi ya mapango 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29844744.wav,kwa ufupi neno karantini linamaanisha kuwa chini ya uangalizi 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30629190.wav,warangi wengi wanafuata dini ya uislamu 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_35154864.wav,katika mto kagera ambao nao humwaga maji yake katika ziwa victoria 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29256529.wav,njia ya asili bado hutumiwa wakati wa kula chakula cha leo 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30663029.wav,kuja hapa haraka lione lilivyo kwanza 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28933412.wav,paulo nje ya kuta za jiji 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_35267671.wav,nywele za bandia 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30618325.wav,jamii ya waswahili wanapendana 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30659300.wav,majimaji ya mwili wa mnyama aliyeambukizwa ugonjwa huu 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30558480.wav,kwa kipindi kilichobakia mpaka mwaka elfu mbili na ishirini na tano utakapofanyika uchaguzi mkuu 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28258683.wav,kokoko walasamaki hula samaki hasa 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29827710.wav,wabantu ni familia moja na waafrika ni kabila moja kubwa 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_34047214.wav,kuliripotiwa kuwa kuna msongamano wa wapiganaji mia nane wa kimasai kuhamia nchini kenya 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28258567.wav,alikuwa myahudi msomi katika dini falsafa na maadili 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30719272.wav,mungu hakuiacha tanzania akaipa utajiri wa tamaduni mbalimbali za kupendeza 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30717960.wav,kovu ambalo linafanya vigumu kwenda haja ndogo 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_37087166.wav,rungoya inapokea sauti kwa njia ya antena yake mawimbi 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30693985.wav,pia hulima mazao mengine kama mpunga tumbaku mahindi na mengine mengi 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29251795.wav,imekadiriwa kuwa idadi ya wakazi ni kati ya milioni moja na mbili 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_31264980.wav,chakula chao hawali kitu kingine zaidi nyama 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30615831.wav,noelia anasema umekuwa si wa kuridhisha kwa kuwa kasi ni ndogo 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_31459259.wav,walijulikana tabia zao kulingana na majina ya koo zao 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29530085.wav,kuna biashara nyingi za bia sasa katika afrika ya mashariki 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30621817.wav,kiumbe huyo anaweza kuonekana kama hana uhai 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36379090.wav,meli za wareno zilifika mwambaoni mwaka wa 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30678983.wav,baada ya kushinda tuzo ya mchezaji wa mwaka wa afrika rekodi mara nne 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28258893.wav,nchi nyingi za aina hii ni ndogo sana 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_37803619.wav,zingatia matibabu ya wanyama wagonjwa 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_38356007.wav,nje ya jendo la mahakama kuu na kueleza hasira zao 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36494413.wav,wa afrika kusini aliyechaguliwa kidemokrasia mwaka wa tisini na nnealiwaambia wanahabari kuwa ananuia 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_37092869.wav,alinikomboa kwa damu 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30718739.wav,blob anajua kusoma hisia za watu 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29679925.wav,kuna pia viwanda vya sigara vya kutengeneza petroli vya chakula na za kusafisha almasi 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29807680.wav,hata wasambaa maana wengi walilazimika wabadili dini wakasome 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_37086147.wav,walakini kama matokeo ya uvamizi wa wamongolia 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30718305.wav,wapare walikuwa wakiuza bidhaa zinazotengenezwa na chuma kama majembe na mapanga 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36365794.wav,ya elfu moja mia nane themanini alitawala sehemu muhimu za njia ya misafara kati 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_31428025.wav,wilaya za mbulu hanang babati kiteto na simanjiro ziliuunda mkoa wa manyara 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29782663.wav,nchi hii ina maeneo tambarare vilima vya chini na mito michache 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_34046793.wav,akiwa anaongoza nchi masikini kabisa duniani alifanya 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28258684.wav,alitumia pia jina la utani lil black 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30618431.wav,kila nchi ina hali ya hewa yake 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29807678.wav,hasa upande wa kaskazini na maeneo mengine 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29728988.wav,baadhi ya waprotestanti wana huduma hizo lakini kwao si sakramenti 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29807679.wav,mabilionea kumi na nane wa afrika wanatoka mataifa mbalimbali 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36494216.wav,serikali ndiyo ilikuwa msimamizi mkuu wa mashauriano 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30718323.wav,hii inatofautiana na uji ambayo hutayarishwa na hupikwa na maziwa 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28258885.wav,ni wakati huu ambao alianza kujifunza kiingereza 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_37057986.wav,ambaye baadae alikuwa mpenzi wa baba yake 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_31458862.wav,wachezaji wa inter milan walilia kuondoka kwa mourinho 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_34049200.wav,fedha amos muhinga kimunya waziri wa elimu sam ongeri waziri wa mambo ya nje 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30718180.wav,soko la michikichi bagamoyo tanzania sasa ni kanisa na makaburi 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28676017.wav,wanatokea misitu na maeneo mengine yenye miti katika afrika 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_31466540.wav,rais wa uganda alipenda sera za hitler 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30718246.wav,sifa hizi si ndogo kwa chuo cha uandishi wa habari 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_31291121.wav,kwa uwepo wa bandari hii tanzania inapokea mizigo mimgi sana 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_31292328.wav,nilijipata na hamu ya kuchunguza uwanja wa kitaaluma unaohusiana na sayansi ya data 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36494502.wav,nyama yao ni tamu sana 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30619185.wav,karume alipotambua hilo alizuia mwingiliano huru wa watu 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30719547.wav,mambo ambayo hayapatikani mjini na maeneo mengine tunakoishi 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_34047963.wav,serikali ya tanzania inalumbana na makampuni ya madini ya kigeni 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36379360.wav,ni visiwa vilivyoko kwenye mwambao wa afrika mashariki 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36367440.wav,teknolojia rahisi kama vyoo au matendo ya usafi binafsi 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30719320.wav,hadi kulazimika kuikimbia zanzibar na wananchi wazalendo 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36494351.wav,nitakuimbia siku zote 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_34049386.wav,mama jabir karibu umsalimie mgeni alikuwa anafanya kazi na mwanangu jabir 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_37090340.wav,chama chake kapambana na hoja 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_37086019.wav,kuna duru maalum zinazojitahidi sana kuizika misingi ya 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30619176.wav,wasukuma pia ni wafanya biashara na wavuvi 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28722244.wav,miliki ya umma 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30618682.wav,nadharia hii inashikiliwa sana na ehitna 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_34048850.wav,mkurugenzi mtendaji wa chama cha wanahabari wanawake tanzania da 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_35220679.wav,tanzania ina zaidi ya makabila mia moja ishirini na moja 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_34046550.wav,kwa namna fulani anthemius alipata upatikanaji wa chini ya zeno 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29170075.wav,hidrojeni ya kawaida ina protoni moja tu 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30644429.wav,viongozi lazima wawatumikie watu na si watu wawatumikie viongozi 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30619003.wav,inaelezwa alikuwa miongoni mwa wanafunzi waliofaulu vizuri masomo yao na kuweka rekodi chuoni hapo 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30618083.wav,alikuwa rais wa pili wa jamhuri ya muungano wa tanzania 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30658830.wav,waziri mkuu wa jamhuri ya muungano wa tanzania mheshimiwa mizengo pinda 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30618907.wav,magofu ya kaole na msikiti pia makaburi 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30719754.wav,umoja uliundwa mwaka wa elfu moja mia tisa arobaini natano 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30719009.wav,waandamanji walikuwa wakipinga matokeo ya uchaguzi wa zanzibar 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29679163.wav,wareno walianzisha mashamba ya miwa na kuleta watumwa kutoka bara la afrika 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_37085609.wav,kidogo sana tukiangalia nambari yenyewe ni ya juu 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30719920.wav,uhalisia ni kuwa kundi hilo lilimchukulia amin kama rafiki 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28259654.wav,kuna taasisi za utamaduni na elimu pamoja vyuo vikuu 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30718860.wav,wajiunge kwa mujibu wa sheria za india kwa wakati huo 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_38304372.wav,pato hilo limeongezeka kidogo tu katika mwaka huo na kuiacha nchi hiyo chini ya wastani wa mapato ya chini 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30678962.wav,hivyo huja kuhakiki sehemu inayoitwa mafia kuwa amani ya kutosha 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30621344.wav,uchaguzi ulithibitisha uungwaji mkono mkubwa kwa shirika hilo 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30663053.wav,kangaroo anakimbia kwa kunesa kama taili 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30618868.wav,mapinduzi yaliungwa mkono na raia wengi wa afrika 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_37097755.wav,maneno mengi kupindukia 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30659518.wav,kiatu cha dhahabu kilibaki nchini ufaransa 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_34047327.wav,kuna masuala mengi ya kujenga kujenga ui 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30629609.wav,pia kudumisha uhuru na amani na kuweka itikadi na sera za kukabili ujinga 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30719807.wav,rais magufuli alimshinda kwa kura chache sana 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29827080.wav,baadhi ya bandari hizo ni bandari ya dar es salaam nchini tanzania 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30628888.wav,kabla ya kupata uhuru wa tanganyika mwaka elfu moja mia tisa sitini na moja 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30718820.wav,alitajwa kuwa bilionea wa umri mdogo zaidi afrika na jarida la forbes 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_37019727.wav,ziara ya rais wa marekani barack obama 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30621642.wav,mikumi ni hifadhi ya taifa mashuhuri nchini tanzania 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_38304436.wav,kwa kiasi kidogo wanyama wanaweza kufa na chambavu bila kuonesha dalili zozote za kitabibu 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30717848.wav,paka amekatwa mkia 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_31300048.wav,pele aliamua kufa akiwa mchezaji siyo kocha 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_34047929.wav,mshahara wa ajira kama walinzi wa usalama au wapishi kuongoza watalii 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30718142.wav,safari za miguu za kupanda mlima meru ni moja ya 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29817174.wav,hapa palikuwa nyumbani kwa mganga ngondo kimamula mbugi 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30621598.wav,watanzania huishi kwa pamoja kama jamii moja 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30659527.wav,wao wanaathirika zaidi na aina mbalimbali za utaratibu wa kuimarisha kimataifa 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_38387804.wav,washambuliaji wasiojulikana waliokuwa na silaha wamewaua wanajeshi kumi na moja wa burkina faso 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_38287342.wav,shirika la mkataba wa atlantiki ya kaskazini imesema vikosi hivyo vinatuma ujumbe kwa moscow kwamba muungano huo utatetea kila nchi ya eneo lake 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30718391.wav,afisa mfawidhi aliteuliwa kukamilisha taratibu za kiutawala 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_37091148.wav,kuna kanisa kuu katoliki na kanisa kuu la anglikana 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36379195.wav,amejigamba kuleta mafanikio makubwa kwenye sekta ya mawasiliano 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_34046595.wav,ni idara ya makumbusho na mambo kale 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30660117.wav,mbu hutoa parasiti za malaria na kukomaa katika seli nyekundu za damu 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29254322.wav,kimsingi yapo katika obiti thabiti 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29241036.wav,elementi nyingine zinatokea pia kwa kiasi kidogo 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_34048114.wav,tangu mwaka elfu moja mia tisa ishirini na mbili wakitawala kwa mfumo wa kiimla 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30718998.wav,upande wa dini kwa kawaida wale wanaoishi mabondeni ni waislamu 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36378948.wav,kisa hicho maarufa cha ugonjwa wa ukimwi ni cha mmarekani rock hudson 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_34048165.wav,fagio zote zimepotea 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_34046956.wav,kipande hicho cha tano kinachojengwa ndani ya miezi thelathini na sita 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30659227.wav,ni vigumu kuamini kwamba matukio haya mawili hayahusiani 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_31300043.wav,hakuna watu kwa ajili ya watu wengine kutoka ujumbe wa amani wa mwaka mpya 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_31458866.wav,alama hizo kila moja ina maana yake na inawakilisha kitu fulani 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29558961.wav,ndege hawa wana rangi nyeupe nyeusi na kahawia 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30630008.wav,katika ujenzi wa reli waingereza walikumbana na upinzani mgumu hasa 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_35155040.wav,tayari umuhimu wa ushirikiano kwa mfano walutheri waliomba wamoravia 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36554879.wav,bora wa tanzania walio haikuna kipindi wakati wa utawala wa rais kikwete jina 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_38287909.wav,takribani asilimia ya wanyama wanaonyonyesha hupata ugonjwa huu wa kiwele 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36252221.wav,ikiwa ni kuanza kutekeleza hatua ya wao kuondoka 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_38354729.wav,ya makundi yenye silaha ambayo yameongeza mvutano ndani na kuzunguka tripoli 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30659901.wav,ambao niatu ambao zaidi ni jamii ya kabila la wamaasai 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28262589.wav,nchi hii mpya ilikuwa bahati yake 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_37057385.wav,la kampala hivi karibuni chameleone alijiunga na harakati ya nguvu za watu kundi 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30558420.wav,siasa ya watu wa zambia na mfumo wa chama kimoja cha siasa 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36494260.wav,walitoa taarifa kutokukubaliana na uamuzi huo wa kuigawa geita na kufanya chato kuwa mkoa 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30574734.wav,ukilinganisha miundo mbinu mikubwa inayojengwa katika nchi nzima 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_37564770.wav,ugonjwa wa kimeta huwapata ngamia 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30618896.wav,pia kipa huyu ameisaidia tanzania kushiriki michuano ya afcon 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_37058008.wav,bachelor katika fani ya uchumichuo kikampa nafasi ya mhadhiri msaidizi kwa masomo ya 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30659115.wav,watalii hao huongezeka kadri siku zinavyokwenda 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30633262.wav,waraka uliomtaka abeid karume kufika mahakamani tarehe nane februari 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29817325.wav,kiti moto kujibu tuhuma mbele ya kamera 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29807681.wav,inadaiwa kwa siku ilikuwa ikimwaga tani mia moja za majivu 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29354239.wav,hatimaye aliuawa kwa ajili ya imani wakati wa dhuluma ya kaisari decius 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30659212.wav,hifadhi ya taifa ya mikumi iko mpaka wa kaskazini mwa hifadhi kubwa ya wanyama 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30718784.wav,mwaka elfu moja mia tisa tisini na tatu walikuwa laki tano 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_38304348.wav,kuanzia mwaka elfu mia tisa sitini na mbili matangazo yaligeuzwa na kufanywa kipindi kilichotangazwa moja kwa moja 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36387021.wav,nataka kionekane wazi ni kwamba hawamtaki badgbo 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30718693.wav,ambapo mkutano huo ulifikia kilele tarehe ishirini na saba 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28933280.wav,katika watoto ina pia jukumu la kutengeneza seli nyekundu za damu 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30719569.wav,idadi ya shule ni kubwa zaidi ya idadi ya shule katika mikoa mingine tanzania 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30644341.wav,alirekodi albamu yake ya pili mwaka elfu mbili na sita 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36494443.wav,homa inayofanana na mafua ilisambaa sana 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36379385.wav,wakati huo huo taasisi mbalimbali za dunia 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_38355912.wav,katika taarifa iliyotolewa jumatatu jioni na msemaji wa jeshi la kongo brigedia sylvain ekenge 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_37095976.wav,alikariri shairi kwa mfululizo 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30618983.wav,uingereza ilikuwa na kikosi imara sana kwenye kombe la dunia 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_37087654.wav,mmoja kati ya wanawe ni wanu hafidh ameir 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_37087218.wav,itakuwa mchezo 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29774853.wav,idadi ya wasemaji wa kihmong don haijulikani 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36465574.wav,muziki saba nne saba mpaka wakati ujao 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28933440.wav,a mitaani nairobi ni jina baada yake 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36494573.wav,watu wachache tu wanaofahamu asili mila na desturi za wavyele wao hii ni kutokana 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30719557.wav,mwaka mmoja baadaye akaanza kungara kwa staili yake 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29774262.wav,wanyama hawa hula nyasi fupi 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_37096719.wav,taarifa ya uteuzi wa wakuu hao wa taasisi 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_31351011.wav,jambo ambalo halingeweza hata kufikiriwa miaka mitano ya awali 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30719121.wav,hivi ndivyo wanavyopata virutubisho vya protini na karoli 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_34048673.wav,mpakani urusi bahari nyeusi bahari ya azov bahari 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_34047480.wav,john gabriel tuppa aliyefariki leo tarehe ishirini na tano 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28245843.wav,hivi sasa yuko dar es salaam tanzania 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30659271.wav,wa alqaeda ilijibu haraka kwa kumuadhibu vikali osama 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30718702.wav,wilaya ya ngorongoro inapakana na nchi jirani ya kenya kwa upande wa kaskazini 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30581264.wav,vijana hao wakati ule walifanya kazi kubwa sana 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30719125.wav,kwenye makao makuu yake huko kalenga karibu na mji wa iringa 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_35155146.wav,ngumzo ya amani katika eneo la mashariki ya kati yameingia katika sura mpya 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30659801.wav,kama vile maji na elimu bure pia hospitali 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29530854.wav,pia anafahamika kwa jina la simba wa yuda mfalme wa wafalme 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29827712.wav,chifu mwene ngalu aliomba na majibu yalipatikana haraka 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_37034589.wav,yeye ndiye aliyeiweka 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28734132.wav,zaidi ya nusu ya eneo ni maji 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30659524.wav,anatakiwa kuwa mtu mzima kiakili kuliko wengine anayeheshimiwa sana 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_34047937.wav,mbalimbali kwa maana vya ufalme na majina yao 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30619167.wav,pele hakupenda kuwa kocha kwenye maisha yake 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30693990.wav,aliwaachia baada ya upande wa mashitaka kushindwa kuthibitisha mashitaka yao 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28258420.wav,asili yake ni kabila la wapare 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28933855.wav,hao wote wanaweza kuonekana wakati wa kutembelea hifadhi hii 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30719412.wav,alizidi kupiga kelele kutokea kuta za jela na mitaa yote ya afrika kusini 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30717987.wav,kila mtu ataubeba mzigo wake 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29775124.wav,wanafanana na kukwi miti lakini rangi yao ni nyeusi badala ya kijani 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_34046682.wav,mgonjwa wa ugonjwa wa malaria anaweza kuhara 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_37019503.wav,ukashtuka ukadai aki mbona 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29775425.wav,fransisko karibu na monasteri ya waklara 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30621321.wav,ni mtoto wa bwana gulamhussein ismail na bibi mwanasha 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28734151.wav,hii ilisababisha pia wajerumani kuteka yugoslavia wakiwa njiani kwenda ugiriki 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30719494.wav,kila kilichopo kwenye nembo kinawagusa mtanzania 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_34048964.wav,mawakala wake walisababisha vifo vya watu muhimu kwenye kundi 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_31292407.wav,tunaenda kanisani kila jumapili 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30719069.wav,diego maradona aliingia kwenye orodha ya wachezaji waliofanya vizuri 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36494261.wav,kitu ambacho si sahihi kihistoria na hata kwa kufata tawala za zamani 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28258319.wav,lakini si lazima ya kwamba mkuu wa dola ana madaraka mengi sana 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28933869.wav,wakatoliki walikuwa pia na shule ya ufundi 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30575620.wav,ndio wenye ujuzi wa shughuli za kiviwanda 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28258583.wav,alihitimu elimu ya msingi kabla ya kuhamia nigeria 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30618760.wav,kutokana na muundo wa mikataba ya kusaidiana kati ya nchi za ulaya 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28933378.wav,sehemu hii imeanza kupigwa picha mnamo tarehe moja mwezi wa pili 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29827211.wav,na wale wa miaka chini ya mitano ni bure 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30658709.wav,funika kinywa chako unapokuwa ukipiga chafya 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28258286.wav,hii ilikuwa kwa wakati huo kiwango cha wastani cha kutazama video kwenye wavuti 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_31291805.wav,tawala za kijamaa zilianguka kote duniani 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30694025.wav,ugonjwa huu hutokana na kula vyakula vingi visivyokuwa na kundi la chakula 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28259193.wav,alitambua mfumo wa urithi wa tabia thabiti na tabia dhaifu 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30615671.wav,nywele zilizosukwa huweza zikaachwa zimelegea au zikafungwa pamoja 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36366866.wav,zilikuwa zaidi ya elfu tatu pia alifafanua upya imani kuhusu umwilisho 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_38287358.wav,baada ya maafisa kutengua uamuzi ambao maafisa wanalaumu kwa kuruhusu ushirika wa al qaida 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_37057912.wav,watu wengi wamefika leo 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_35212008.wav,lengo ni kujenga uchumi wa kisasa wa blue economy 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28246010.wav,mji ni kitovu cha kibiashara cha pakistan 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30631251.wav,majengo hayo ni pamoja na nyumba za kuishi 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28259306.wav,ni chanzo muhimu kwa kipindi cha matengenezo ya kiprotestanti katika uswisi 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_31291719.wav,shilingi bilioni thelathini na tisa zimetolewa kwa wanawake zaidi ya laki nane 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28262550.wav,alifika katika mji wa mombasa mnamo disemba ya mwaka huo 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30693980.wav,unaofika juu ya kimo cha mstari wa jeledi 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30621842.wav,tangu zanzibar ipate uhuru mpaka sasa ni marais nane waliyoiongoza zanzibar 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30719414.wav,mlima kilimanjaro wenye urefu wa mita elfu tano mia nane tisini na tano 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30659632.wav,mpingo mbali ya kutengeneza vifaa bora zaidi vya muziki duniani pia unatengeneza vinyago 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30621535.wav,alikuwa mtoto wa chifu munyigumba aliyefariki elfu moja mia tisa sabini na tisa 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30619220.wav,mpira wa kuvutia kama anaofundisha pep guardiola 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_37057889.wav,kumepongezwa na viongozi mbalimbali 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36253316.wav,inapita katika tambarare ikifuata mistari ya kihistoria 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30621510.wav,zama za mawe za kale zinapatikana karibu na mto galana 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_37096357.wav,sharubati ya machungwa ni tamu 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29558393.wav,baadhi ya vitabu vyake 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28676103.wav,katika dini mbalimbali linatumika kwa mungu 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_31292466.wav,hiyo inaashiria wachoraji hao walikuwa wawindaji hasa 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_34050525.wav,niliwahi kutengeneza siku za nyuma la mtoto lakini lilikuwa limekosa na watu 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30618508.wav,kushindikana kwa mambo hayo mawili kukaifanya tanzania kutokuwa na njia nyingine zaidi 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_37056971.wav,kuendelea na matanganzo kibaki alionekana kuwa mbele kulikuwa na hofu ya kwamba matokeo ya 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28261707.wav,alipenda kusoma vitabu tangu utoto 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28259874.wav,alikuwa mwanachama wa kanisa la kiinjili 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29558635.wav,kuna kiwanda cha petroli 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30632903.wav,kutoka mataifa ya bara la ulaya na asia 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30629431.wav,imekadiria kuwa waamerika milioni tano huambukizwa trikomonasi kila mwaka 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30574921.wav,kuna ule wimbo wa kusema ana macho mekundu mleteni hapa ale mapanga 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30629435.wav,utendaji kazi wake umefanya kila mtu kuwa na imani nae 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30719562.wav,kuendeleza maarifa yangu kama mwanasayansi wa data kufuatana pamoja na kazi yangu 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30618047.wav,serikali ya ujerumani ilichukua madaraka ya utawala badala ya kampuni 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30621388.wav,wakimbizi wengi hukosa kabisa kutokana na kuhama hama na watu 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30615656.wav,bawasiri inayotoka wakati wa haja kubwa na vigumu mtu kuirudisha baada ya kumaliza kujisaidia 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30717704.wav,vita vinavyojulikana nchini tanzania kama vita vya kagera 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30621187.wav,kama ilivyo kwa binadamu ambao hawaoleani nao wanyama wanahitaji kuchanganya vizazi 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_34046857.wav,kwenye tuzo la wanamziki nchini kwake afrika kusini 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36299626.wav,gerezani na kueleza kuwa hajaridhishwa 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36494144.wav,takribani wageni elfu ishirini na tano kwa mwaka huingia kila mwaka 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30659220.wav,teofile alichaguliwa kuwa miongoni mwa wachezaji bora wa kombe la dunia 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30718181.wav,mwaka elfu moja mia tisa sabini na moja alimpindua milton obote 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36299560.wav,katika ujumbe wake kutoka mtaa wa downing 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28262095.wav,takriban spishi zote zina doa la mviringo kuzunguka macho 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28262334.wav,baadaye waliunda makoloni yao katika magharibi ya mediteranea hadi hispania 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30659867.wav,miongoni mwa wanaume waliokuwa wanaingiliana mashoga 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_31459046.wav,inafahamika kuwa hii ni miongoni mwa meli chache duniani kuishi 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28246377.wav,baada ya hapo wawili hao wanafanya kitendo cha mapenzi 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30575613.wav,historia ya ukoloni nchini kenya ilianza wakati wajerumani walipoanza kutawala 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29357322.wav,idadi ya wasemaji nchini uhindi haijulikani lakini ni ndogo 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_31291129.wav,kelele za mlango haziniwasi usingizi 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_31440775.wav,wakati wa septemba elfu moja mia nane tisini na sita wahehe waligawanyika 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30659545.wav,kama sisi tunavyomuheshimu twiga ndivyohivyo hivyo anavyoheshimika kangaroo nchini australia 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30719054.wav,ugonjwa wa korona umeambukiza watu wengi sana duniani 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36365511.wav,mpaka itakapofikia na wasanii wake 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30718066.wav,masomo yaliyodhibitiwa na kompyuta kwenye tovuti yaliyoandaliwa kwa kazi hii 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28259502.wav,huonekana katika udongo na inawezekana kama hula kuvu na dutu ya viumbehai 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_37058087.wav,kutokana na vita mbalimbaliː kwanza vita dhidi ya uajemi 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30619187.wav,sindano ya pili hutolewa baada ya mwezi mmoja 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30658711.wav,ushahidi wa kisayansi unatokana na nyayo za zamadamu 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29361787.wav,iko katika kaskazini ya japani 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36390301.wav,na kukosa kusudi maishani matatizo ya kifedha ukosefu wa kazi 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36494355.wav,mazoezi huimarisha kinga za mwili na kufanya mwili 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30619075.wav,hali ya hewa inayofanya mji wa mbeya kuwa barid kwa kipindi kirefu cha mwaka 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36366987.wav,itaongeza ubora kwa kuondoa njia ya makubaliano 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30990934.wav,mtoto au mtu mzima yeyote mwenye virusi vya ukimwi asinyanyapaliwe au kubaguliwa 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30719604.wav,wakati wa kutahiriwa vijana wanapangwa katika mstari 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_37092282.wav,kingenisaidia kuwa hai siku kadhaa zijazo wakati 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36494467.wav,mito ambayo inamwaga maji ziwa victoria ni pamoja na mto kagera 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28933173.wav,mengi yake ni ya sherehe ngoma na burudani mbalimbali 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30619017.wav,hakuna mchezaji anayefikia mafanikio ya pele ulimwenguni 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30621774.wav,tunaona kwamba mtemi huyu wa kabila la wangindo alikuwa na imani sana 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29827301.wav,mkwawa alizaliwa mahali palipoitwa luhota karibu na iringa mjini 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_37095479.wav,baada ya kutumia haki yao ya msingi kuchangua rais na wabunge wao 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30650213.wav,wakati alipokuwa akiishi nchini afghanistan hakuna aliyekuwa 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30618704.wav,mtu anayeishi vizuri ni yule ambaye hasumbuliwi na maradhi hatari 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30693758.wav,inayotokana na maumbile ya mibuyu inayosadikiwa kuwa na zaidi ya miaka elfu nane 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30659030.wav,kila miaka mitano tuna kitabu kinachotuongoza kusimamia mpango wa uhifadhi 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29817204.wav,aliniambia umefanya vizuri sana ndiyo alivyonisaidia 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_34048246.wav,iwezekanavyo ni jaribio kubwa la kupatana na iwezekanavyo 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28676019.wav,leo hii walio wengi ni warusi 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28258946.wav,pia alichezea timu ya taifa ya norway 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_37084942.wav,mpaka kufikia hapo wamatumbi walikuwa wamekubali kushindwa 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30694190.wav,yeye mwenyewe alikuwa mtoto wa kwanza kuzaliwa 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36379370.wav,walijeruhiwa katika ghasia za baada uchaguzi mkuu wa nchi hiyo 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_31459152.wav,zikawa bendi za vijana maarufu zaidi katika mji mkuu wa kinshasa 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30581230.wav,aliolewa mwaka wa elfu moja mia tisa na sabini na nane kwa hafidh ameir 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28258839.wav,tabia ya nchi ya tanzania hubadilika kwa nyakati tofautitofauti katika mwaka 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36494382.wav,mpira wa miguu nje ya kanuni za kawaida katika mpira wa miguu 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_37057526.wav,upelelezi wa marekani kabla ya kuchaguliwa makamu wa rais na hatimaye mwaka elfu moja 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29816820.wav,hata hivyo hofu ya kuundwa serikali ya kikomunisti haikutimia kamwe 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_37218470.wav,jacob alishajua kuwa daisy na juliana walikuwa wakiishi katika maeneo yale lakini hakuijua nyumba 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29353501.wav,sayansi ya astronomia inatumia kundinyota kama mbinu ya kupata ramani ya anga juu yetu 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30678980.wav,mwinyi aliyeongoza januari thelathini mwaka elfu moja mia tisa themanini na nne 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30615837.wav,kuendelea kutegemea upadrisho uliotolewa na maaskofu na hivyo kuacha kuhubiri namna mpya 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30679002.wav,waliweza kuwapora na kuwaweka kwenye himaya yao makundi ya wachaga 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_37095054.wav,wengine abel mwanga mwanasiasa charles kusaga mkurugenzi wa hospitali ya bugando 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29242197.wav,tangu kale anaheshimiwa na waorthodoksi wa mashariki waorthodoksi na wakatoliki kama mtakatifu 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_34048910.wav,wamegundua kuwa ni afadhali kutumia fafanuzi tofauti 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30718776.wav,mahale imeshibishwa na ukubwa wa kilomita elfu moja mia sita na kumi na tatu 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28258661.wav,aliwahi kucheza timu ya taifa ya australia 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36365139.wav,na hudson bay zaidi ya kaskazini kwa 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_35155070.wav,utegemeaji baadhi huwa na uwezo kusababisha utegemeaji 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36255530.wav,amekuwa mafichoni tangu atoroke jela miaka miwili iliyopita 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36252160.wav,vyanzo vingine ni mto ugalla mto gombe mto ruchugi mto lumpungu na mto nguya 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30659123.wav,hujumuisha homa ya ghafla uchovu maumivu ya kichwa na kuhisi baridi 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_34046779.wav,sehemu kubwa ya afrika na sehemu nyingine mabara ya amerika na 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29253265.wav,nchi imegawanywa katika wilaya kumi 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36390199.wav,msikilizaji kelele unazozisikia ni kwamba watu wako kwenye maandamano kaskazini mwa tanzania 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30659103.wav,kupungua uzito kukojoa mara kwa mara maono machafu 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29531050.wav,maelekezo haya kawaida msimbo ya protini fulani 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36379218.wav,yule ni kitinda mimba 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30679001.wav,waingereza walitumia njia hii kusambaza propaganda mbaya juu ya wadigo 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36977016.wav,na viwango vikubwa vya vyanzo vya uchafuzi katika nchi nyingi za ulaya 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30630621.wav,huyo mtoto huolewa mwanamke ambaye huja kuzaa kuendeleza 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28933699.wav,rangi yao ni kijivu au kahawia juu na nyeupe chini 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_34046699.wav,tuna kula chakula kidogo kidogo na ku 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36494442.wav,ni urithi wa wamisionari walioleta mafarakano yao ya kale kutoka ulaya au 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30616029.wav,nchi zote zaidi ya hamsini zina maziwa tena makubwa 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29640520.wav,waanzilishi wa kikundi cha sanaa cha kisasa 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_37056778.wav,kuelekea baharini katika dura ya maji duniani 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28258453.wav,huwa mirefu lakini kiasi nyembamba 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30694055.wav,mbuni anaweza kubadili njia akiwa kwenye mwendo kasi 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36494175.wav,makubwaaliyekuwa mbunge wa singida mashariki tundu lisu alinusurika kushambuliwa na mbunge wa zamani 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_34047064.wav,na mitandao ya kijamii wakiendesha gari la kifahari katika jiji la kampala licha ya 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_31291422.wav,mfugale amepewa heshima kubwa nchini tanzania 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30621525.wav,wanashauriwa kumeza vidonge vya kinga ya malaria vilivyopendekezwa na mtaalamu wa afya 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28262253.wav,hivyo ni mji pekee duniani uliopo katika mabara mawili 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30718295.wav,mchezo wa fainali sudan ilikubali kipigo cha mabao mawili kwa moja 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_37091489.wav,serikali ni wananchi na wananchi ndio si 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_37087479.wav,wa rekodi za zamani na karibu thelathini milimita 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36976989.wav,hakusema neno lolote 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28246120.wav,asili ya mmea huu ni afrika ya magharibi 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29827071.wav,ziwa empakai linapatikana ndani ya hifadhi ya ngorongoro 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30718127.wav,ugomvi unapoteza haki za watu wengi 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30718707.wav,kushuka kwa gharama hizi kutachochea ushindani mkubwa wa kiuchumi 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36494202.wav,unakuwa umejengwa katika misingi ya kukandamiza vyombo vya habari katika kikao cha mwisho cha 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30575690.wav,wasukuma wambulu na warangi ni baadhi ya walioathirika na hofu dhidi ya wamasai 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36387590.wav,ni vizuri kwa zanzibar kujifunza namna ambavyo nchi nyingine zinavyotumia dhana hii 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_38300455.wav,yaliyoongozwa na wanajeshi wa tanzania malawi kongo na afrika kusini 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29844312.wav,kuwepo kwa mtoki na historia ya kuumwa na viroboto humsaidia daktari kufanya utambuzi 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_37096716.wav,si ajabu usikute mtu atayekujibu kwamba anaitwa mkurya 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_31229923.wav,katika mwaka wangu wa kuhitimu masomo 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_34048646.wav,moja kwa moja na mimi nianzie katika viwanja vya tennis kama ujuavyo atp world 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30719409.wav,hali ya ukoloni ilikuwa imeondoka nchini tanzania 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_34050498.wav,i ni askari mimi ni askari 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30678982.wav,sokoine alikuwa kiongozi shupavu na jasiri sana 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30621663.wav,mfumo wa elimu ya tanzania ulikuwa haujaimarika 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30717724.wav,hifadhi ya taifa ya arusha ina aina za ndege zaidi ya mia nne 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28259051.wav,ushahidi unaonyesha kuwa hapo awali ulikuwa tunda dogo lenye rangi ya njano 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28258351.wav,walio wengi ni wakulima na wafugaji 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30719805.wav,hivyo basi rangi nyeupe pekee ndio hutumika katika kuiremba ndege 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30618210.wav,kutumia ndege za kukodi pia hifadhi hii inafikika kwa magari 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29844209.wav,ambapo hili jina la mkanyageni likawafanya watalii wengi kujua asili ya mkanyageni 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28259503.wav,kuna mipango ya kuboresha huduma 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30719165.wav,unaweza kusema karne ya kumi na sita 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30718410.wav,wavumbuzi pia walitumia jina lililokuwa la kikosi cha kiutendaji kilichoanzishwa miaka kadhaa nyuma 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28262572.wav,takriban robo ya wakazi ni wa asili ya ulaya 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30618869.wav,nyerere alirudi tabora kufundisha shule ya msingi 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30659554.wav,mara baada ya sultani kuhamia dar es salaam mji ulianza kupanuka uchumi wake 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30574752.wav,twiga wana miguu mirefu sana kuliko wanyama wengine 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36252716.wav,rais samia amewateua amos gabriel makalla kama mkuu wa mkoa wa dar es salaam 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30658825.wav,pamekuwepo na mazingira mazuri yaliyowezesha sekta binafsi 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30621322.wav,serikali ya wachache ya nchini afrika kusini iliyoongozwa wakoloni 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30659874.wav,mtemi mazengo alikuwa mnyaugogo kutoka mvumi 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_37096792.wav,wangejua leo yangu ni hii 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_37093002.wav,nchi ambazo kwa kweli wanachangamoto nyingi ambazo kwa kweli wanaa 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30718476.wav,kilimanjaro ni jina la mlima mrefu kuliko yote barani afrika 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30574796.wav,unapojali afya yako inakuwa ni vigumu kupata magonjwa 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28261525.wav,hasa anajulikana kwa utafiti wake wa penisilini 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_37085112.wav,picha ya ndani zaidi ilimshtua 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_37056972.wav,congomaadhimisho ya uhuru wa congo kwa mara ya kwanza yalifanyika mnamo tarehe thelathini 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36390201.wav,shangilia sana wewe uliye tasa 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30630447.wav,alikuwa mwimbaji wa muziki aina ya sukusi 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30618676.wav,mtoto wa sultani ali hassan ndio aliyekuja hapa na kununua eneo hili lote 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_34047986.wav,mnodawa za kulevya hutumiwa kwa njia nyingi ikiwemo kuvuta kama sigara 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30621990.wav,katika eneo hili wazee walilitumia kama eneo la ulinzi na usalama 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36387272.wav,na kuweza kuharibu kabisa mfumo huu kwa utumbo kuoza 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30621511.wav,katika hoja hiyo jaro imetokana na kichagga njaare aina ya ndege 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28259971.wav,pia walikataa ndoa kunywa maziwa na kula nyama isipokuwa samaki 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30575610.wav,kwa hiyo uwepo wa ziwa hili umesadia sana kukuza uchumi wa nchi ya tanzania 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29251418.wav,tangu zamani wanaheshimiwa na wakatoliki na waorthodoksi kama watakatifu wafiadini 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29630140.wav,jina la mkoa limetokana na lile la mto songwe 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28258797.wav,kwa marais wa nchi tangu uhuru angalia orodha ya marais wa algeria 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36379259.wav,kuonyesha dhahiri matatizo yaliyotatuliwa kabisa kwa dini 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_34047159.wav,jacob kwa uzoefu wake ilimbidi atulie akae kwa makini 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30633250.wav,hifadhi za taifa mapori ya akiba fukwe 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30660115.wav,inasimuliwa kuwa kabila hili la wadigo lina historia yake 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28262501.wav,iko kaskazini mwa ukraine 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30718691.wav,soka linaweza kuchukiza pale timu unayoishabikia inapofungwa 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30659222.wav,anaweza kuwa mtoto wa baba mkubwa au ndugu wa tumbo moja 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29169724.wav,hili lilikuwa moja kati ya milki kubwa sana katika historia ya umiliki wa ardhi 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30574754.wav,ziwa nyasa lina aina za samaki mia nne na tano 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36976975.wav,sini na zimbabwe vimeripoti kuwa mugabe 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_37019514.wav,kama aina ya mazoezi au kujiburudisha tu 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36389732.wav,daraja limevukwa 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36253486.wav,aliajiriwa kama mchapishaji katika serikali ya zanzibar 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30718473.wav,kapita na gari ya kifahari utawasikia one day yes 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30694020.wav,tanzania ilikuwa changa sana ilihitaji muda kujijenga 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30719387.wav,historia ya mkoa huu inaanzia mwaka elfu moja mia tisa sitini na moja 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30718475.wav,idadi ya wamasai wanaofuata desturi hii hasa wavulana inazidi kupungua 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_37227224.wav,mfululizo wa michezo ya kuigiza unahitaji wafadhili 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_38303474.wav,kwa kutunza virutubish vya viazi lishe pika viazi vikiwa havijamenywa 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30621759.wav,mombasa ulikuwa mji wenye bandari wa nchi ya kenya 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_31259983.wav,fadhila ya punda ni mateke 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29353879.wav,anaheshimiwa na kanisa katoliki waorthodoksi waorthodoksi wa mashariki walutheri na waanglikana kama mtakatifu mfiadini 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_34048525.wav,msemaji wa mamlaka hiyo ya kupambana na rushwa 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_34187590.wav,watawala karibu na pwani waliweza kupata faida kwa kuuza 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30718020.wav,ikiwa na wateja milioni arobaini na tatu 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30659998.wav,wapare walikuwa na utamaduni wa shughuli za sanaa kama methali hadithi maigizo na kadhalika 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28259466.wav,upangaji ni kuangalia mbele 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30694124.wav,jose mourinho ni kama pep guardiola 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30719151.wav,katika maana rasmi tunaangalia historia ya lugha ya kiswahili 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_34047066.wav,tabaka kuu la kisiasa katika dola ya 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_37650404.wav,ugonjwa wa miguu na midomo 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30621641.wav,chama tawala kilishinda dhidi ya muungano wa vyama vya upinzani 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_31260388.wav,twiga wanachangamana vizuri na wanyama wengine wala nyasi 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30621380.wav,wengi hufariki na maradhi ya ini ikiwemo saratani ya ini 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_37085388.wav,kiongozi mkuu kwa hiyo kiongozi mkuu anaamua juu ya 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_34048309.wav,na mwaka elfu moja mia tisa sabini 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_34046762.wav,sipendi ambaye ana tamaa 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_37227213.wav,wengi na waturuki wa transcaucasia na asia ndogo 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29259529.wav,jina linatokana na nywele zao laini kama pamba 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30618096.wav,salvatore schillaci alifunga mabao sita kwenye fainali za kombe la dunia 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_37057300.wav,vazi la vijana 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28257885.wav,uko katika kusini ya nchi 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28258655.wav,baba yake akiwa na asili ya bara la ulaya 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30719040.wav,fainali algeria iliipiga senegal bao moja kwa sifuri 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28933649.wav,chuma cha pua ni ngumu kushinda chuma tupu isiyo na kaboni 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_34047219.wav,na kuazia pale tutaamini swala hili 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28676081.wav,dume ana nyeusi zaidi na jike ana nyekundu zaidi 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_37092290.wav,ambalo lipo mstari wa mbele ka 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30990933.wav,mlipuko wa mwisho uliotokea miaka ya laki moja iliyopita 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28261630.wav,kila mtu alikuwa hodari katika nafasi yake 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30718940.wav,alihamasisha wawekezaji wa ndani na nje ya tanzania 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36254791.wav,ni kawaida zaidi kwa uchafuzi wake kuwa mkubwa 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28933405.wav,mto huo unaishia kwenye mto imo 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30694175.wav,benjamin mkapa alikuwa ni mwanadiplomasia na mwandishi wa habari aliyebobea 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36494538.wav,mike ananyambulisha haya kwa makusudi ili kuweka kumbukumbu sawa kuna kusahahulika kwa matukio muhimu 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28259235.wav,wimbo huo ndio ngoma yao ya pili 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30719759.wav,mourinho akafanikiwa akatwaa makombe akiwa na chelsea 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29868161.wav,wastani wa lita moja ya maziwa hunywewa na kila mtu kwa siku 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28259531.wav,albamu hii ilitolewa nchini marekani mnamo tarehe moja mwezi wa pili 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_34892054.wav,sehemu zakongo walisambaa na kuwa pwani ya 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30616036.wav,mwalimu mkuu aliona aondoke kuelekea nyumbani 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_37058131.wav,sheria inatoa mamlaka kwa benki kuu kutengeneza na kutoa fedha 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30621959.wav,yaliyoko katika baadhi ya misitu ya nchi hiyo 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30619222.wav,tamasha la sauti za busara linaafanyika zanzibar 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_37057637.wav,kikosi hicho chenye maskani yake stamford bridge 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30615763.wav,magonjwa mengi ya zinaa husambaa wakati wa kujamiiana 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30659763.wav,elimu ni silaha yenye nguvu zaidi 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36494485.wav,uongozi umekuwa mbaya sana wakuja wanapigania uongozi viongozi wanakuwa hivi 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29523868.wav,hata kama zinaitwa ardhi adimu hakuna uhaba wa elementi hizi duniani 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_35267857.wav,si kazi za mikono yetu 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28933130.wav,kuna makadirio ya kwamba idadi ya spishi hizo inaweza kufikia nusu milioni 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_37057545.wav,vyombo vya habari vya kwanza kwa maana iliyoelezwa juu vilikuwa magazeti 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30621143.wav,mbuni ana rangi nyekundu pinki au bluu shingoni 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30627910.wav,halikadhalika tango linaweza kutumika katika kuboresha ngozi ya uso na kuifanya ngozi kuwa nyororo 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30659382.wav,baadhi ya vimelea kama plasmodium vivax na plasmodium ovale 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30563849.wav,kufanikiwa kubeba ubingwa wa kombe la mabingwa alipokuwa ujerumani 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30650257.wav,kangaroo anapendelea kula wakati wa asubuhi 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28258579.wav,ni sehemu ya chini zaidi katika nyanda za juu kusini mwa tanzania 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_31291380.wav,akiwa gerezani mandela alikutana na wenzake waliokuwa wakipigana bega kwa bega 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28734148.wav,wapinzani wengi waliuawa au kufungwa jela 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30581233.wav,yoyote katika kituo cha polisi cha kibondo 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_31264959.wav,tanzania ni nchi iliyo salama zaidi duniani 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36494487.wav,matangazo ya redio yanatumia sekunde thelathini hadi sitin 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_37057802.wav,muingiliano wa huduma za kifedha unaleta usalama wa kufanya malipo 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30718695.wav,katika mkoa wa tanga kuna sehemu nyingi za utalii 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28257861.wav,yeye ana mabinti wanne na mpenzi wake wa zamani 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28933397.wav,makao makuu yako nairobi 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30615692.wav,katiba hiyo inafuatwa na kuenziwa na watu wote 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_34050445.wav,mfumo huo utatumika kuhamisha fedha baina ya watoa huduma 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30659413.wav,miinuko hiyo ni matokeo ya volkeno 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29708633.wav,asili ya vilele vingi ni shughuli za volkeno 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_34048280.wav,dar es salaam kuna idadi kubwa ya watu 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36379390.wav,mgumu zaidi kutibu na kupata nafuu kutoka nayo ikiwa na uwezekano 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28246266.wav,ilhali mwezi uko kati ya jua na dunia kuna hali ya pekee 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30615722.wav,madini na maji vilevile inashauriwa kuwa 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30618203.wav,bandari hiyo ilitumika kuendeleza biashara na miji mingine yenye bandari afrika 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29816985.wav,akichuana na daktari ali mohamed shain 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_35210977.wav,kuwafanya wawe wanachama na baadhi yao kuwa watumishi wa serikali 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28258602.wav,maeneo makubwa ni yabisi na nusu jangwa au jangwa 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_36390571.wav,wagonjwa wamo hospitalini 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30650202.wav,kumaliza msimu bila kufungwa ni rekodi kubwa 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28675890.wav,ndani ya bunge kulikuwa na vikundi mbalimbali 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_37087943.wav,moja hamsini elfu watu yenye watu tuhuma mwaka elfu moja mia tisa ishirini na 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28675998.wav,hili lilikuwa ndilo kundi kuu 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30659170.wav,ya kuwa mwanamke wa kwanza kukalia kiti cha urais 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29529386.wav,ni pia mji mkubwa wa kwanza katika mkoa huu 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_31292022.wav,wataalamu wa magari ya benz walihoji sana juu ya kilichotokea tanzania 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_37019558.wav,uzinduzi wa ujenzi wa kipande hicho cha reli ni ishara njema 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_28261711.wav,kwa kawaida hula majani 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30621241.wav,baada ya harakati nyingi za wanasiasa visiwani humon 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30718388.wav,katika harakati zake za kuwakomboa wanawake 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_29259025.wav,ilikuwa na matoleo matatu kulingana na kiwango cha elimu cha wasomaji 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_34048061.wav,wa wareno ulifika na wahabeshi walipata pia bunduki mwaka elfu moja mia 
+/scratch/skscla001/experiments/datasets/swagen/audio/common_voice_sw_30619169.wav,rais magufuli alisema kazi hiyo iliendelea 
